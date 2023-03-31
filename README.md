@@ -1,3 +1,11 @@
+***************************************************************************************************************
+Exercise #13: Unit testing using JavaScript and Jest
+Deploys basic tests for four simple Add and Currency conversion functions 
+
+Mark received:
+Date: 
+Teacher:
+***************************************************************************************************************
 # Unit testing with Jest
 
 ```
